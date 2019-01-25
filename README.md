@@ -1,2 +1,2 @@
 # myrepo
-training
+New repo Happy Git
